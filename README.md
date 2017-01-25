@@ -30,9 +30,9 @@ Usage
 The OpenStack Add-on collects service status and resource usage information from the machines it is installed on. This information is used by the OpenStack App for Splunk to show the status of this node in the OpenStack setup. To make the best use of this Add-on, make sure that you install OpenStack App for Splunk on your Splunk server.
 
 Support
---------
-    Report issues to splunk@gslab.com.
-    Hours of operations: 9 hours a day (04:30 - 13:30 UTC).
-    Saturday, Sunday are holidays.
-    Response time user should expect when they report an issue: within 12 hours.
-    Initially, issues will be tracked using the email thread. If the issue is found to be a valid bug, it will be moved to a bug tracking system.
+-----
+Report issues to splunk@gslab.com.
+Hours of operations: 9 hours a day (04:30 - 13:30 UTC).
+Saturday, Sunday are holidays.
+Response time user should expect when they report an issue: within 12 hours.
+Initially, issues will be tracked using the email thread. If the issue is found to be a valid bug, it will be moved to a bug tracking system.
