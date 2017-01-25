@@ -6,7 +6,7 @@ Copyright (c) 2017, Great Software Laboratory Private Limited.
 
 Contributor: Vikas Sanap [vikas.sanap@gslab.com], Basant Kumar [basant.kumar@gslab.com]
 
-https://github.com/GSLabDev/openstack-app-for-splunk
+https://github.com/GSLabDev/openstack-addon-for-splunk
 The OpenStack Add-on for Splunk works with the OpenStack App for Splunk to provide deep visibility into your OpenStack setup. It collects logs and resource usage information from machines it is installed on. Install this add-on on machines which are running OpenStack services - the "nodes" of the Openstack setup.
 
 Openstack Add-on for Splunk is licensed under the Open Source License.
